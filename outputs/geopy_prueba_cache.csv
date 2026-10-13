@@ -1,0 +1,6 @@
+zip_prefijo,ciudad_olist,estado_olist,cantidad_clientes,consulta_postal_encontrada,codigo_postal_respuesta,coincide_prefijo,latitud_postal,longitud_postal,descripcion_postal,consulta_territorial_encontrada,latitud_territorial,longitud_territorial,descripcion_territorial,misma_coordenada_que_ciudad_estado
+70686,brasilia,DF,15,True,70391-900,False,-15.7939869,-47.8828,"Brasília, Plano Piloto, Distrito Federal, Região Centro-Oeste, 70391-900, Brasil",True,-15.7939869,-47.8828,"Brasília, Plano Piloto, Distrito Federal, Região Centro-Oeste, 70391-900, Brasil",True
+41098,salvador,BA,3,True,,False,-12.9822499,-38.4812772,"Salvador, Bahia, Região Nordeste, Brasil",True,-12.9822499,-38.4812772,"Salvador, Bahia, Região Nordeste, Brasil",True
+29949,sao mateus,ES,3,True,,False,-18.7965039,-39.9212375,"São Mateus, Espírito Santo, Região Sudeste, Brasil",True,-18.7965039,-39.9212375,"São Mateus, Espírito Santo, Região Sudeste, Brasil",True
+72821,luziania,GO,3,True,,False,-16.2535456,-47.9500276,"Luziânia, Goiás, Região Centro-Oeste, Brasil",True,-16.2535456,-47.9500276,"Luziânia, Goiás, Região Centro-Oeste, Brasil",True
+65137,maioba,MA,3,True,65137-000,True,-2.5243253,-44.1782472,"Maioba, Paço do Lumiar, Maranhão, Região Nordeste, 65137-000, Brasil",True,-2.5243253,-44.1782472,"Maioba, Paço do Lumiar, Maranhão, Região Nordeste, 65137-000, Brasil",True
