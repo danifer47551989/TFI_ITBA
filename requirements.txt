@@ -1,0 +1,15 @@
+# Manipulacion y analisis de datos
+numpy>=1.24
+pandas>=2.0
+pyarrow>=14.0
+
+# Visualizacion
+altair>=6.0,<7.0
+matplotlib>=3.7
+
+# Geocodificacion utilizada en el notebook exploratorio
+geopy>=2.4,<3.0
+
+# Ejecucion interactiva de los notebooks
+ipython>=8.0
+jupyter>=1.0
